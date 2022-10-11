@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harshita Singh / UX Researcher, Designer and Academic Librarian"
+title                    : "Harshita Singh / UX Researcher, Designer, Academic Librarian"
 title_separator          : "-"
 name                     : &name "Harshita Singh"
-description              : &description "UX Researcher, Designer and Academic Librarian"
+description              : &description "UX Researcher, Designer, Academic Librarian"
 url                      : https://hsingh122.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsingh122/hsingh122.github.io"
