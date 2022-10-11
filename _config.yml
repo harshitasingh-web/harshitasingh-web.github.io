@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Harshita Singh / Site Title"
 title_separator          : "-"
 name                     : &name "Harshita Singh"
-description              : &description "personal description"
+description              : &description "UX Researcher, Designer and Academic Librarian"
 url                      : https://harshitasingh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsingh122/harshitasingh.github.io"
