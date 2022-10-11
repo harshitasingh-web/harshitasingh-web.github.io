@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Harshita Singh"
 description              : &description "personal description"
-url                      : hsingh122/harshitasingh.github.io
+url                      : harshitasingh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsingh122/harshitasingh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
