@@ -13,14 +13,13 @@ Education
 ======
 * B.A. in Toronto, University of Toronto, 2017
 * M.I. in Toronto, University of Toronto, expected graduation in 2023
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021-2023: Graduate Student Library Assistant
+  * University of Toronto, Reference and Education Department
+  * Duties included: Web-based research support (via email and Ask a Librarian Chat) for all University of Toronto studets, faculty and staff
+  * Supervisor: Nalini Singh, Yoonhee Lee
 
 * Fall 2015: Research Assistant
   * Github University
