@@ -1,8 +1,8 @@
 ---
 title: "Ethnography Lab at University of Toronto’s Anthropology Department"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Summer High School Program"
+permalink: (https://ethnographylab.ca/2018/03/21/ethnography-lab-summer-high-school-program-2018/)
 venue: "University 1, Department"
 date: 2018-07
 location: "Toronto, Ontario"
