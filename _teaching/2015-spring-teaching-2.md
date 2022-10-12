@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer High School Program"
 permalink: (https://ethnographylab.ca/2018/03/21/ethnography-lab-summer-high-school-program-2018/)
 venue: "University 1, Department"
-date: 2018-07
+date: 2018-07-01
 location: "Toronto, Ontario"
 ---
 
